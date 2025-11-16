@@ -8,7 +8,7 @@
 ## Beginner Level (1-25): Getting Started & Basic Operations
 
 ### Initial Setup & Access
-- [ ] 1. How to access Claude Code Web at claude.com/code
+- [x] 1. How to access Claude Code Web at claude.com/code
 - [ ] 2. How to sign up for a Claude Pro or Max account to use Claude Code Web
 - [ ] 3. How to authenticate your GitHub account with Claude Code Web
 - [ ] 4. How to connect your first GitHub repository to Claude Code Web
