@@ -29,18 +29,18 @@
 - [x] 15. How to view changes made by Claude Code in your repository
 
 ### Session Management
-- [ ] 16. How to start a new Claude Code session
-- [ ] 17. How to view all your active sessions
-- [ ] 18. How to pause and resume a session
-- [ ] 19. How to review completed sessions
-- [ ] 20. How to access session history and logs
+- [x] 16. How to start a new Claude Code session
+- [x] 17. How to view all your active sessions
+- [x] 18. How to pause and resume a session
+- [x] 19. How to review completed sessions
+- [x] 20. How to access session history and logs
 
 ### Basic Interactions
-- [ ] 21. How to provide additional context to Claude during a task
-- [ ] 22. How to intervene and guide Claude mid-session when it encounters issues
-- [ ] 23. How to approve or reject Claude's suggested changes
-- [ ] 24. How to ask Claude to revise its approach to a problem
-- [ ] 25. How to understand Claude's responses and actions in the interface
+- [x] 21. How to provide additional context to Claude during a task
+- [x] 22. How to intervene and guide Claude mid-session when it encounters issues
+- [x] 23. How to approve or reject Claude's suggested changes
+- [x] 24. How to ask Claude to revise its approach to a problem
+- [x] 25. How to understand Claude's responses and actions in the interface
 
 ---
 
