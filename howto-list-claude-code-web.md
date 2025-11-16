@@ -12,7 +12,7 @@
 - [x] 2. How to sign up for a Claude Pro or Max account to use Claude Code Web
 - [x] 3. How to authenticate your GitHub account with Claude Code Web
 - [x] 4. How to connect your first GitHub repository to Claude Code Web
-- [ ] 5. How to understand the difference between Pro (3 tasks) and Max (10+ tasks) concurrent limits
+- [x] 5. How to understand the difference between Pro (3 tasks) and Max (10+ tasks) concurrent limits
 
 ### Basic Task Management
 - [ ] 6. How to create your first coding task in Claude Code Web
