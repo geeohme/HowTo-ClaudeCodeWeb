@@ -17,9 +17,9 @@
 ### Basic Task Management
 - [x] 6. How to create your first coding task in Claude Code Web
 - [x] 7. How to describe a task effectively for Claude to understand
-- [ ] 8. How to monitor a running task in real-time
-- [ ] 9. How to view the progress of your task execution
-- [ ] 10. How to cancel a running task if needed
+- [x] 8. How to monitor a running task in real-time
+- [x] 9. How to view the progress of your task execution
+- [x] 10. How to cancel a running task if needed
 
 ### Repository Basics
 - [ ] 11. How to switch between different connected repositories
