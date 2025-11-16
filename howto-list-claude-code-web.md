@@ -15,7 +15,7 @@
 - [x] 5. How to understand the difference between Pro (3 tasks) and Max (10+ tasks) concurrent limits
 
 ### Basic Task Management
-- [ ] 6. How to create your first coding task in Claude Code Web
+- [x] 6. How to create your first coding task in Claude Code Web
 - [ ] 7. How to describe a task effectively for Claude to understand
 - [ ] 8. How to monitor a running task in real-time
 - [ ] 9. How to view the progress of your task execution
