@@ -63,33 +63,33 @@
 - [x] 37. How to work on existing branches instead of creating new ones
 
 ### Environment & Configuration
-- [ ] 38. How to access the sandboxed environment settings
-- [ ] 39. How to configure network access (no internet, limited, or full)
-- [ ] 40. How to view pre-installed toolchains and language ecosystems
-- [ ] 41. How to understand which Ruby, Node, Python versions are available
-- [ ] 42. How to set environment variables for your session
-- [ ] 43. How to configure project-specific settings in .claude/settings.json
-- [ ] 44. How to use the /config command to open settings interface
+- [x] 38. How to access the sandboxed environment settings
+- [x] 39. How to configure network access (no internet, limited, or full)
+- [x] 40. How to view pre-installed toolchains and language ecosystems
+- [x] 41. How to understand which Ruby, Node, Python versions are available
+- [x] 42. How to set environment variables for your session
+- [x] 43. How to configure project-specific settings in .claude/settings.json
+- [x] 44. How to use the /config command to open settings interface
 
 ### Security & Credentials
-- [ ] 45. How to safely provide API keys without exposing them to Claude
-- [ ] 46. How to use the secure proxy for authentication
-- [ ] 47. How to understand what credentials Claude can and cannot access
-- [ ] 48. How to review security permissions before starting a task
-- [ ] 49. How to configure network restrictions for sensitive projects
-- [ ] 50. How to audit what actions Claude performed in the isolated VM
+- [x] 45. How to safely provide API keys without exposing them to Claude
+- [x] 46. How to use the secure proxy for authentication
+- [x] 47. How to understand what credentials Claude can and cannot access
+- [x] 48. How to review security permissions before starting a task
+- [x] 49. How to configure network restrictions for sensitive projects
+- [x] 50. How to audit what actions Claude performed in the isolated VM
 
 ### Common Development Workflows
-- [ ] 51. How to fix a specific bug using Claude Code Web
-- [ ] 52. How to add a new feature to an existing codebase
-- [ ] 53. How to refactor code for better maintainability
-- [ ] 54. How to write unit tests for existing functionality
-- [ ] 55. How to generate documentation for your code
-- [ ] 56. How to perform code reviews with Claude's assistance
-- [ ] 57. How to analyze and optimize code performance
-- [ ] 58. How to update dependencies safely
-- [ ] 59. How to migrate code between different frameworks or versions
-- [ ] 60. How to handle multiple bug fixes in parallel
+- [x] 51. How to fix a specific bug using Claude Code Web
+- [x] 52. How to add a new feature to an existing codebase
+- [x] 53. How to refactor code for better maintainability
+- [x] 54. How to write unit tests for existing functionality
+- [x] 55. How to generate documentation for your code
+- [x] 56. How to perform code reviews with Claude's assistance
+- [x] 57. How to analyze and optimize code performance
+- [x] 58. How to update dependencies safely
+- [x] 59. How to migrate code between different frameworks or versions
+- [x] 60. How to handle multiple bug fixes in parallel
 
 ---
 

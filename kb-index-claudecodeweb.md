@@ -1,8 +1,8 @@
 # Knowledge Base Index: claudecodeweb
 
-**Total Articles**: 37
+**Total Articles**: 48
 **Last Updated**: November 16, 2025
-**Completion Status**: Beginner Level Complete ✅ | Intermediate Level (Parallel Tasks & Branch/PR Management) Complete ✅
+**Completion Status**: Beginner Complete ✅ | Intermediate Partial (38-60) ✅
 
 ## Quick Navigation
 - [Beginner](#beginner-level)
@@ -94,19 +94,39 @@
 
 | ID | Title | Filename | Status |
 |----|-------|----------|--------|
-| KB-038-044 | Environment configuration topics | *Pending* | ⏳ Not Started |
+| KB-038 | How to access the sandboxed environment settings | `kb-article-038-access-sandboxed-environment-settings.md` | ✅ Complete |
+| KB-039 | How to configure network access (no internet, limited, or full) | `kb-article-039-configure-network-access.md` | ✅ Complete |
+| KB-040 | How to view pre-installed toolchains and language ecosystems | `kb-article-040-view-preinstalled-toolchains.md` | ✅ Complete |
+| KB-041 | How to understand which Ruby, Node, Python versions are available | `kb-article-041-check-language-versions.md` | ✅ Complete |
+| KB-042 | How to set environment variables for your session | `kb-article-042-set-environment-variables.md` | ✅ Complete |
+| KB-043 | How to configure project-specific settings in .claude/settings.json | `kb-article-043-configure-project-settings.md` | ✅ Complete |
+| KB-044 | How to use the /config command to open settings interface | `kb-article-044-use-config-command.md` | ✅ Complete |
 
 ### Security & Credentials
 
 | ID | Title | Filename | Status |
 |----|-------|----------|--------|
-| KB-045-050 | Security and credential topics | *Pending* | ⏳ Not Started |
+| KB-045 | How to safely provide API keys without exposing them to Claude | `kb-article-045-safely-provide-api-keys.md` | ✅ Complete |
+| KB-046 | How to use the secure proxy for authentication | `kb-article-046-use-secure-proxy.md` | ✅ Complete |
+| KB-047 | How to understand what credentials Claude can and cannot access | `kb-article-047-understand-credential-access.md` | ✅ Complete |
+| KB-048 | How to review security permissions before starting a task | `kb-article-048-review-security-permissions.md` | ✅ Complete |
+| KB-049 | How to configure network restrictions for sensitive projects | `kb-article-049-configure-network-restrictions.md` | ✅ Complete |
+| KB-050 | How to audit what actions Claude performed in the isolated VM | `kb-article-050-audit-claude-actions.md` | ✅ Complete |
 
 ### Common Development Workflows
 
 | ID | Title | Filename | Status |
 |----|-------|----------|--------|
-| KB-051-060 | Development workflow topics | *Pending* | ⏳ Not Started |
+| KB-051 | How to fix a specific bug using Claude Code Web | `kb-article-051-fix-specific-bug.md` | ✅ Complete |
+| KB-052 | How to add a new feature to an existing codebase | `kb-article-052-add-new-feature.md` | ✅ Complete |
+| KB-053 | How to refactor code for better maintainability | `kb-article-053-refactor-code-maintainability.md` | ✅ Complete |
+| KB-054 | How to write unit tests for existing functionality | `kb-article-054-write-unit-tests.md` | ✅ Complete |
+| KB-055 | How to generate documentation for your code | `kb-article-055-generate-documentation.md` | ✅ Complete |
+| KB-056 | How to perform code reviews with Claude's assistance | `kb-article-056-perform-code-reviews.md` | ✅ Complete |
+| KB-057 | How to analyze and optimize code performance | `kb-article-057-analyze-optimize-performance.md` | ✅ Complete |
+| KB-058 | How to update dependencies safely | `kb-article-058-update-dependencies-safely.md` | ✅ Complete |
+| KB-059 | How to migrate code between different frameworks or versions | `kb-article-059-migrate-code-frameworks.md` | ✅ Complete |
+| KB-060 | How to handle multiple bug fixes in parallel | `kb-article-060-handle-parallel-bug-fixes.md` | ✅ Complete |
 
 ---
 
@@ -164,6 +184,36 @@
 - KB-004: Connect repository
 - KB-014: Understand working branch
 - KB-015: View changes on GitHub
+- KB-046: Use secure proxy for authentication
+
+### Environment & Configuration
+- KB-038: Access sandboxed environment settings
+- KB-039: Configure network access
+- KB-040: View pre-installed toolchains
+- KB-041: Check language versions
+- KB-042: Set environment variables
+- KB-043: Configure project settings
+- KB-044: Use /config command
+
+### Security
+- KB-045: Safely provide API keys
+- KB-046: Use secure proxy for authentication
+- KB-047: Understand credential access
+- KB-048: Review security permissions
+- KB-049: Configure network restrictions
+- KB-050: Audit Claude's actions
+
+### Development Workflows
+- KB-051: Fix specific bugs
+- KB-052: Add new features
+- KB-053: Refactor code
+- KB-054: Write unit tests
+- KB-055: Generate documentation
+- KB-056: Perform code reviews
+- KB-057: Analyze and optimize performance
+- KB-058: Update dependencies safely
+- KB-059: Migrate code between frameworks
+- KB-060: Handle multiple bug fixes in parallel
 - KB-031: Create new branch for specific task
 - KB-032: Auto-name branches following conventions
 - KB-033: Create pull requests automatically
@@ -202,10 +252,10 @@
 ### Intermediate Level Breakdown
 - **Parallel Task Execution**: 5 articles (KB-026 to KB-030) ✅
 - **Branch & PR Management**: 7 articles (KB-031 to KB-037) ✅
-- **Environment & Configuration**: Pending (KB-038 to KB-044)
-- **Security & Credentials**: Pending (KB-045 to KB-050)
-- **Common Development Workflows**: Pending (KB-051 to KB-060)
-- **Total Completed**: 12 articles ✅
+- **Environment & Configuration**: 7 articles (KB-038 to KB-044) ✅
+- **Security & Credentials**: 6 articles (KB-045 to KB-050) ✅
+- **Common Development Workflows**: 10 articles (KB-051 to KB-060) ✅
+- **Total**: 35 articles ✅
 
 ### Estimated Learning Time
 - **Quick Start Path** (KB-001 to KB-006): ~30 minutes
@@ -303,5 +353,6 @@
 ---
 
 **Last Index Update**: November 16, 2025
-**Knowledge Base Version**: 1.2 (Beginner + Intermediate Parallel Tasks & Branch/PR Management Complete)
-**Next Update**: Intermediate Level Remaining Articles (KB-038 to KB-060)
+**Knowledge Base Version**: 1.5 (Beginner Complete + Intermediate Complete)
+**Coverage**: 60 articles (KB-001 to KB-060)
+**Next Update**: Advanced Articles (KB-061 to KB-100)
