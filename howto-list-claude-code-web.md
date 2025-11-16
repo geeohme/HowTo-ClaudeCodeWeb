@@ -8,39 +8,39 @@
 ## Beginner Level (1-25): Getting Started & Basic Operations
 
 ### Initial Setup & Access
-- [ ] 1. How to access Claude Code Web at claude.com/code
-- [ ] 2. How to sign up for a Claude Pro or Max account to use Claude Code Web
-- [ ] 3. How to authenticate your GitHub account with Claude Code Web
-- [ ] 4. How to connect your first GitHub repository to Claude Code Web
-- [ ] 5. How to understand the difference between Pro (3 tasks) and Max (10+ tasks) concurrent limits
+- [x] 1. How to access Claude Code Web at claude.com/code
+- [x] 2. How to sign up for a Claude Pro or Max account to use Claude Code Web
+- [x] 3. How to authenticate your GitHub account with Claude Code Web
+- [x] 4. How to connect your first GitHub repository to Claude Code Web
+- [x] 5. How to understand the difference between Pro (3 tasks) and Max (10+ tasks) concurrent limits
 
 ### Basic Task Management
-- [ ] 6. How to create your first coding task in Claude Code Web
-- [ ] 7. How to describe a task effectively for Claude to understand
-- [ ] 8. How to monitor a running task in real-time
-- [ ] 9. How to view the progress of your task execution
-- [ ] 10. How to cancel a running task if needed
+- [x] 6. How to create your first coding task in Claude Code Web
+- [x] 7. How to describe a task effectively for Claude to understand
+- [x] 8. How to monitor a running task in real-time
+- [x] 9. How to view the progress of your task execution
+- [x] 10. How to cancel a running task if needed
 
 ### Repository Basics
-- [ ] 11. How to switch between different connected repositories
-- [ ] 12. How to disconnect a repository from Claude Code Web
-- [ ] 13. How to view the file structure of your connected repository
-- [ ] 14. How to understand which branch Claude Code is working on
-- [ ] 15. How to view changes made by Claude Code in your repository
+- [x] 11. How to switch between different connected repositories
+- [x] 12. How to disconnect a repository from Claude Code Web
+- [x] 13. How to view the file structure of your connected repository
+- [x] 14. How to understand which branch Claude Code is working on
+- [x] 15. How to view changes made by Claude Code in your repository
 
 ### Session Management
-- [ ] 16. How to start a new Claude Code session
-- [ ] 17. How to view all your active sessions
-- [ ] 18. How to pause and resume a session
-- [ ] 19. How to review completed sessions
-- [ ] 20. How to access session history and logs
+- [x] 16. How to start a new Claude Code session
+- [x] 17. How to view all your active sessions
+- [x] 18. How to pause and resume a session
+- [x] 19. How to review completed sessions
+- [x] 20. How to access session history and logs
 
 ### Basic Interactions
-- [ ] 21. How to provide additional context to Claude during a task
-- [ ] 22. How to intervene and guide Claude mid-session when it encounters issues
-- [ ] 23. How to approve or reject Claude's suggested changes
-- [ ] 24. How to ask Claude to revise its approach to a problem
-- [ ] 25. How to understand Claude's responses and actions in the interface
+- [x] 21. How to provide additional context to Claude during a task
+- [x] 22. How to intervene and guide Claude mid-session when it encounters issues
+- [x] 23. How to approve or reject Claude's suggested changes
+- [x] 24. How to ask Claude to revise its approach to a problem
+- [x] 25. How to understand Claude's responses and actions in the interface
 
 ---
 
