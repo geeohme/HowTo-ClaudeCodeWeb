@@ -22,11 +22,11 @@
 - [x] 10. How to cancel a running task if needed
 
 ### Repository Basics
-- [ ] 11. How to switch between different connected repositories
-- [ ] 12. How to disconnect a repository from Claude Code Web
-- [ ] 13. How to view the file structure of your connected repository
-- [ ] 14. How to understand which branch Claude Code is working on
-- [ ] 15. How to view changes made by Claude Code in your repository
+- [x] 11. How to switch between different connected repositories
+- [x] 12. How to disconnect a repository from Claude Code Web
+- [x] 13. How to view the file structure of your connected repository
+- [x] 14. How to understand which branch Claude Code is working on
+- [x] 15. How to view changes made by Claude Code in your repository
 
 ### Session Management
 - [ ] 16. How to start a new Claude Code session
