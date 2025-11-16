@@ -10,7 +10,7 @@
 ### Initial Setup & Access
 - [x] 1. How to access Claude Code Web at claude.com/code
 - [x] 2. How to sign up for a Claude Pro or Max account to use Claude Code Web
-- [ ] 3. How to authenticate your GitHub account with Claude Code Web
+- [x] 3. How to authenticate your GitHub account with Claude Code Web
 - [ ] 4. How to connect your first GitHub repository to Claude Code Web
 - [ ] 5. How to understand the difference between Pro (3 tasks) and Max (10+ tasks) concurrent limits
 
