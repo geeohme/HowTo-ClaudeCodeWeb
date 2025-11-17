@@ -96,31 +96,31 @@
 ## Advanced Level (61-100): Advanced Features & Optimization
 
 ### Hooks Configuration
-- [ ] 61. How to create a SessionStart hook for repository initialization
-- [ ] 62. How to configure hooks to auto-format code after edits
-- [ ] 63. How to set up hooks that require approval for bash commands
-- [ ] 64. How to create PostToolUse hooks for validation
-- [ ] 65. How to use Stop hooks for cleanup operations
-- [ ] 66. How to debug hook failures and troubleshoot issues
-- [ ] 67. How to share hooks across your development team
+- [x] 61. How to create a SessionStart hook for repository initialization
+- [x] 62. How to configure hooks to auto-format code after edits
+- [x] 63. How to set up hooks that require approval for bash commands
+- [x] 64. How to create PostToolUse hooks for validation
+- [x] 65. How to use Stop hooks for cleanup operations
+- [x] 66. How to debug hook failures and troubleshoot issues
+- [x] 67. How to share hooks across your development team
 
 ### Custom Slash Commands
-- [ ] 68. How to create your first custom slash command in .claude/commands/
-- [ ] 69. How to write slash commands as Markdown files
-- [ ] 70. How to use the $ARGUMENTS keyword in slash commands
-- [ ] 71. How to organize slash commands with namespacing and directories
-- [ ] 72. How to create project-specific vs personal slash commands
-- [ ] 73. How to share commonly used slash commands with your team
-- [ ] 74. How to debug and test custom slash commands
+- [x] 68. How to create your first custom slash command in .claude/commands/
+- [x] 69. How to write slash commands as Markdown files
+- [x] 70. How to use the $ARGUMENTS keyword in slash commands
+- [x] 71. How to organize slash commands with namespacing and directories
+- [x] 72. How to create project-specific vs personal slash commands
+- [x] 73. How to share commonly used slash commands with your team
+- [x] 74. How to debug and test custom slash commands
 
 ### MCP Server Integration
-- [ ] 75. How to install and configure an MCP server
-- [ ] 76. How to connect Claude Code to external MCP servers
-- [ ] 77. How to use MCP servers for browser automation
-- [ ] 78. How to integrate database access through MCP servers
-- [ ] 79. How to configure MCP server timeouts and token limits
-- [ ] 80. How to troubleshoot MCP server connection issues
-- [ ] 81. How to create custom MCP server integrations
+- [x] 75. How to install and configure an MCP server
+- [x] 76. How to connect Claude Code to external MCP servers
+- [x] 77. How to use MCP servers for browser automation
+- [x] 78. How to integrate database access through MCP servers
+- [x] 79. How to configure MCP server timeouts and token limits
+- [x] 80. How to troubleshoot MCP server connection issues
+- [x] 81. How to create custom MCP server integrations
 
 ### Skills, Subagents & Plugins
 - [ ] 82. How to install a plugin with a single command

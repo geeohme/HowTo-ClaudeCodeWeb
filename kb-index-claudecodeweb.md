@@ -1,8 +1,8 @@
 # Knowledge Base Index: claudecodeweb
 
-**Total Articles**: 48
+**Total Articles**: 81
 **Last Updated**: November 16, 2025
-**Completion Status**: Beginner Complete ✅ | Intermediate Partial (38-60) ✅
+**Completion Status**: Beginner Complete ✅ | Intermediate Complete ✅ | Advanced Partial (61-81) ✅
 
 ## Quick Navigation
 - [Beginner](#beginner-level)
@@ -132,9 +132,65 @@
 
 ## Advanced Level
 
+### Hooks Configuration
+
 | ID | Title | Filename | Status |
 |----|-------|----------|--------|
-| KB-061-100 | Advanced topics (Hooks, MCP, Slash Commands, etc.) | *Pending* | ⏳ Not Started |
+| KB-061 | How to create a SessionStart hook for repository initialization | `kb-article-061-create-sessionstart-hook-repository-initialization.md` | ✅ Complete |
+| KB-062 | How to configure hooks to auto-format code after edits | `kb-article-062-configure-hooks-auto-format-code-after-edits.md` | ✅ Complete |
+| KB-063 | How to set up hooks that require approval for bash commands | `kb-article-063-setup-hooks-require-approval-bash-commands.md` | ✅ Complete |
+| KB-064 | How to create PostToolUse hooks for validation | `kb-article-064-create-posttooluse-hooks-validation.md` | ✅ Complete |
+| KB-065 | How to use Stop hooks for cleanup operations | `kb-article-065-use-stop-hooks-cleanup-operations.md` | ✅ Complete |
+| KB-066 | How to debug hook failures and troubleshoot issues | `kb-article-066-debug-hook-failures-troubleshoot-issues.md` | ✅ Complete |
+| KB-067 | How to share hooks across your development team | `kb-article-067-share-hooks-across-development-team.md` | ✅ Complete |
+
+### Custom Slash Commands
+
+| ID | Title | Filename | Status |
+|----|-------|----------|--------|
+| KB-068 | How to create your first custom slash command in .claude/commands/ | `kb-article-068-create-first-custom-slash-command.md` | ✅ Complete |
+| KB-069 | How to write slash commands as Markdown files | `kb-article-069-write-slash-commands-markdown-files.md` | ✅ Complete |
+| KB-070 | How to use the $ARGUMENTS keyword in slash commands | `kb-article-070-use-arguments-keyword-slash-commands.md` | ✅ Complete |
+| KB-071 | How to organize slash commands with namespacing and directories | `kb-article-071-organize-slash-commands-namespacing-directories.md` | ✅ Complete |
+| KB-072 | How to create project-specific vs personal slash commands | `kb-article-072-create-project-specific-vs-personal-slash-commands.md` | ✅ Complete |
+| KB-073 | How to share commonly used slash commands with your team | `kb-article-073-share-commonly-used-slash-commands-team.md` | ✅ Complete |
+| KB-074 | How to debug and test custom slash commands | `kb-article-074-debug-test-custom-slash-commands.md` | ✅ Complete |
+
+### MCP Server Integration
+
+| ID | Title | Filename | Status |
+|----|-------|----------|--------|
+| KB-075 | How to install and configure an MCP server | `kb-article-075-install-configure-mcp-server.md` | ✅ Complete |
+| KB-076 | How to connect Claude Code to external MCP servers | `kb-article-076-connect-claude-code-external-mcp-servers.md` | ✅ Complete |
+| KB-077 | How to use MCP servers for browser automation | `kb-article-077-use-mcp-servers-browser-automation.md` | ✅ Complete |
+| KB-078 | How to integrate database access through MCP servers | `kb-article-078-integrate-database-access-mcp-servers.md` | ✅ Complete |
+| KB-079 | How to configure MCP server timeouts and token limits | `kb-article-079-configure-mcp-server-timeouts-token-limits.md` | ✅ Complete |
+| KB-080 | How to troubleshoot MCP server connection issues | `kb-article-080-troubleshoot-mcp-server-connection-issues.md` | ✅ Complete |
+| KB-081 | How to create custom MCP server integrations | `kb-article-081-create-custom-mcp-server-integrations.md` | ✅ Complete |
+
+### Skills, Subagents & Plugins
+
+| ID | Title | Filename | Status |
+|----|-------|----------|--------|
+| KB-082-87 | Skills, Subagents & Plugins topics | *Pending* | ⏳ Not Started |
+
+### Git Worktree Advanced Techniques
+
+| ID | Title | Filename | Status |
+|----|-------|----------|--------|
+| KB-088-91 | Git Worktree Advanced Techniques | *Pending* | ⏳ Not Started |
+
+### Testing & Quality Assurance
+
+| ID | Title | Filename | Status |
+|----|-------|----------|--------|
+| KB-092-97 | Testing & Quality Assurance topics | *Pending* | ⏳ Not Started |
+
+### Advanced Workflows & Optimization
+
+| ID | Title | Filename | Status |
+|----|-------|----------|--------|
+| KB-098-100 | Advanced Workflows & Optimization topics | *Pending* | ⏳ Not Started |
 
 ---
 
@@ -257,12 +313,26 @@
 - **Common Development Workflows**: 10 articles (KB-051 to KB-060) ✅
 - **Total**: 35 articles ✅
 
+### Advanced Level Breakdown
+- **Hooks Configuration**: 7 articles (KB-061 to KB-067) ✅
+- **Custom Slash Commands**: 7 articles (KB-068 to KB-074) ✅
+- **MCP Server Integration**: 7 articles (KB-075 to KB-081) ✅
+- **Skills, Subagents & Plugins**: 6 articles (KB-082 to KB-087) ⏳
+- **Git Worktree Advanced Techniques**: 4 articles (KB-088 to KB-091) ⏳
+- **Testing & Quality Assurance**: 6 articles (KB-092 to KB-097) ⏳
+- **Advanced Workflows & Optimization**: 3 articles (KB-098 to KB-100) ⏳
+- **Total**: 21 articles complete, 19 pending
+
 ### Estimated Learning Time
 - **Quick Start Path** (KB-001 to KB-006): ~30 minutes
 - **Complete Beginner Level** (KB-001 to KB-025): ~2-3 hours
-- **Parallel Tasks & Branch/PR Management** (KB-026 to KB-037): ~2-3 hours
+- **Complete Intermediate Level** (KB-026 to KB-060): ~4-6 hours
+- **Hooks Configuration** (KB-061 to KB-067): ~2 hours
+- **Custom Slash Commands** (KB-068 to KB-074): ~1.5-2 hours
+- **MCP Server Integration** (KB-075 to KB-081): ~2.5-3 hours
 - **Individual Beginner Articles**: 2-10 minutes each
 - **Individual Intermediate Articles**: 10-20 minutes each
+- **Individual Advanced Articles**: 10-45 minutes each
 
 ### Common Learning Paths
 
@@ -316,6 +386,33 @@
 7. KB-035: Customize PR descriptions and titles
 8. KB-036: Handle merge conflicts
 
+**Path 7: Hooks Mastery (Advanced)**
+1. KB-061: Create SessionStart hook for repository initialization
+2. KB-062: Configure hooks to auto-format code after edits
+3. KB-063: Set up hooks that require approval for bash commands
+4. KB-064: Create PostToolUse hooks for validation
+5. KB-065: Use Stop hooks for cleanup operations
+6. KB-066: Debug hook failures and troubleshoot issues
+7. KB-067: Share hooks across your development team
+
+**Path 8: Custom Slash Commands (Advanced)**
+1. KB-068: Create your first custom slash command
+2. KB-069: Write slash commands as Markdown files
+3. KB-070: Use the $ARGUMENTS keyword in slash commands
+4. KB-071: Organize slash commands with namespacing and directories
+5. KB-072: Create project-specific vs personal slash commands
+6. KB-073: Share commonly used slash commands with your team
+7. KB-074: Debug and test custom slash commands
+
+**Path 9: MCP Server Integration (Advanced)**
+1. KB-075: Install and configure an MCP server
+2. KB-076: Connect Claude Code to external MCP servers
+3. KB-077: Use MCP servers for browser automation
+4. KB-078: Integrate database access through MCP servers
+5. KB-079: Configure MCP server timeouts and token limits
+6. KB-080: Troubleshoot MCP server connection issues
+7. KB-081: Create custom MCP server integrations
+
 ---
 
 ## Generation Notes
@@ -353,6 +450,6 @@
 ---
 
 **Last Index Update**: November 16, 2025
-**Knowledge Base Version**: 1.5 (Beginner Complete + Intermediate Complete)
-**Coverage**: 60 articles (KB-001 to KB-060)
-**Next Update**: Advanced Articles (KB-061 to KB-100)
+**Knowledge Base Version**: 2.0 (Beginner + Intermediate + Advanced Partial)
+**Coverage**: 81 articles (KB-001 to KB-081)
+**Next Update**: Advanced Articles (KB-082 to KB-100) - Skills, Git Worktree, Testing, Optimization
