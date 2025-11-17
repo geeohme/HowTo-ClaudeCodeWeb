@@ -123,31 +123,31 @@
 - [x] 81. How to create custom MCP server integrations
 
 ### Skills, Subagents & Plugins
-- [ ] 82. How to install a plugin with a single command
-- [ ] 83. How to create a custom skill for repeated workflows
-- [ ] 84. How to package slash commands, agents, and MCP servers as a plugin
-- [ ] 85. How to share plugins with your team or community
-- [ ] 86. How to use subagents for specialized tasks
-- [ ] 87. How to configure agent behavior and permissions
+- [x] 82. How to install a plugin with a single command
+- [x] 83. How to create a custom skill for repeated workflows
+- [x] 84. How to package slash commands, agents, and MCP servers as a plugin
+- [x] 85. How to share plugins with your team or community
+- [x] 86. How to use subagents for specialized tasks
+- [x] 87. How to configure agent behavior and permissions
 
 ### Git Worktree Advanced Techniques
-- [ ] 88. How to use git worktrees for parallel sessions in the same repository
-- [ ] 89. How to manage multiple worktrees effectively
-- [ ] 90. How to synchronize changes between worktrees
-- [ ] 91. How to clean up worktrees after completing parallel tasks
+- [x] 88. How to use git worktrees for parallel sessions in the same repository
+- [x] 89. How to manage multiple worktrees effectively
+- [x] 90. How to synchronize changes between worktrees
+- [x] 91. How to clean up worktrees after completing parallel tasks
 
 ### Testing & Quality Assurance
-- [ ] 92. How to implement test-driven development (TDD) with Claude Code
-- [ ] 93. How to write comprehensive test suites for new features
-- [ ] 94. How to configure pre-commit hooks for linting and type checks
-- [ ] 95. How to integrate Claude Code with CI/CD pipelines
-- [ ] 96. How to automate PR comments through GitHub Actions
-- [ ] 97. How to measure and improve test coverage with Claude's help
+- [x] 92. How to implement test-driven development (TDD) with Claude Code
+- [x] 93. How to write comprehensive test suites for new features
+- [x] 94. How to configure pre-commit hooks for linting and type checks
+- [x] 95. How to integrate Claude Code with CI/CD pipelines
+- [x] 96. How to automate PR comments through GitHub Actions
+- [x] 97. How to measure and improve test coverage with Claude's help
 
 ### Advanced Workflows & Optimization
-- [ ] 98. How to use Plan Mode for read-only codebase exploration
-- [ ] 99. How to create debugging runbooks and troubleshooting guides
-- [ ] 100. How to optimize Claude Code usage to stay within rate limits while maximizing productivity
+- [x] 98. How to use Plan Mode for read-only codebase exploration
+- [x] 99. How to create debugging runbooks and troubleshooting guides
+- [x] 100. How to optimize Claude Code usage to stay within rate limits while maximizing productivity
 
 ---
 
